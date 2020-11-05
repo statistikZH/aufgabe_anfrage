@@ -4,7 +4,7 @@
 
 ## 1. Anfrage mittels R-Auswertung beantworten
 
-Eine Kundin hat uns eine Anfrage zum Thema Beschäftigung übermittelt. Wenn klar ist was die Kunding genau wünscht, können die Daten können mit Hilfe von R aufbereitet und ihr im Anschluss via Mail zugeschickt werden.
+Eine Kundin hat uns eine Anfrage zum Thema Beschäftigung übermittelt. Wenn klar ist was die Kundin genau wünscht, können die Daten können mit Hilfe von R aufbereitet und ihr im Anschluss via Mail zugeschickt werden.
 
 ### Anfrage
 
