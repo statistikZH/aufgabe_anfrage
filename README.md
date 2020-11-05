@@ -17,8 +17,3 @@ Freundliche Grüsse
 Petra Mustermann
 
 Für Rückfragen: datashop@statistik.ji.zh.ch
-
-
-
-
-
