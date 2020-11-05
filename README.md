@@ -4,6 +4,8 @@
 
 ## 1. Anfrage mittels R-Auswertung beantworten
 
+Eine Kundin hat uns eine Anfrage zum Thema Beschäftigung übermittelt. Wenn klar ist was die Kunding genau wünscht, können die Daten können mit Hilfe von R aufbereitet und ihr im Anschluss via Mail zugeschickt werden.
+
 ### Anfrage
 
 Guten Tag 
@@ -26,3 +28,6 @@ Skript welches bereits die Links zu den für die Auswertung notwendigen Daten en
 
 https://github.com/statistikZH/aufgabe_anfrage/blob/master/auswertung_skript.Rmd
 
+## Beantwortung der Anfrage
+
+Daten und Antwortmail an : datashop@statistik.ji.zh.ch
