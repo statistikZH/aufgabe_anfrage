@@ -34,7 +34,7 @@ Link für Datenbezug: https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_59
 ```
 
 # Beschäftigtendichte
-Um die Beschäftigtendichte zu berechnen sind auch die Einwohnerzahlen notwendig. Diese sind ebenfalls auf opendata.swiss verfügbar im identischen Format verfügbar.
+Um die Beschäftigtendichte zu berechnen sind auch die Einwohnerzahlen notwendig. Diese sind ebenfalls auf opendata.swiss im identischen Format verfügbar.
 
 Datenbeschrieb: https://opendata.swiss/de/dataset/bevolkerung-pers
 Link für Datenbezug: https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_133.csv
@@ -42,8 +42,6 @@ Link für Datenbezug: https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_13
 ```{r}
 
 ```
-
-
 
 
 
