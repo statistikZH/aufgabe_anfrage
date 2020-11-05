@@ -17,3 +17,9 @@ Freundliche Grüsse
 Petra Mustermann
 
 Für Rückfragen: datashop@statistik.ji.zh.ch
+
+## Skriptvorlage
+
+Skript welches bereits die Links zu den für die Auswertung notwendigen Daten enthält:
+
+https://github.com/statistikZH/aufgabe_anfrage/blob/master/auswertung_skript.Rmd
