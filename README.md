@@ -1,8 +1,10 @@
 ![](https://opendata.swiss/content/uploads/2016/02/kt_zh.png)
 
-# Aufgabe : Anfrage mittels R-Auswertung beantworten
+# Aufgabe 
 
-## Anfrage
+## 1. Anfrage mittels R-Auswertung beantworten
+
+### Anfrage
 
 Guten Tag 
 
@@ -23,3 +25,4 @@ Für Rückfragen: datashop@statistik.ji.zh.ch
 Skript welches bereits die Links zu den für die Auswertung notwendigen Daten enthält:
 
 https://github.com/statistikZH/aufgabe_anfrage/blob/master/auswertung_skript.Rmd
+
