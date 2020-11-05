@@ -1,0 +1,51 @@
+---
+title: "Anteil der Zürcher Raumplanungsregionen an der kantonalen Gesamtbeschäftigung"
+output: html_notebook
+---
+
+```{r setup}
+#Setup
+library(dplyr)
+library(ggplot2)
+```
+
+# Datenbezug Vollzeitäquivalente nach Gebietseinheiten
+
+Auf opendata.swiss stellen wir Daten zur Beschäftigten nach Gebietseinheiten zur Verfügung. Auch die Regionen sind enthalten. Diese weisen in der Bezeichnung (GEBIET_NAME) jeweils das Präfix "Region" auf. 
+
+Datenbeschrieb: https://opendata.swiss/de/dataset/total-vza-anz
+Link für Datenbezug: https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_596.csv
+
+```{r}
+
+
+```
+
+# Anteil der Regionen an der Gesamtbeschäftigung
+```{r}
+
+
+```
+
+## Visualisierung
+```{r}
+
+
+```
+
+# Beschäftigtendichte
+Um die Beschäftigtendichte zu berechnen sind auch die Einwohnerzahlen notwendig. Diese sind ebenfalls auf opendata.swiss verfügbar im identischen Format verfügbar.
+
+Datenbeschrieb: https://opendata.swiss/de/dataset/bevolkerung-pers
+Link für Datenbezug: https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_133.csv
+
+```{r}
+
+```
+
+
+
+
+
+
+
