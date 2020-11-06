@@ -32,4 +32,4 @@ https://github.com/statistikZH/aufgabe_anfrage/blob/master/auswertung_skript.Rmd
 
 ## Beantwortung der Anfrage
 
-Daten und Antwortmail an : datashop@statistik.ji.zh.ch
+Daten, Antwortmail und Skript für die Auswertung an : datashop@statistik.ji.zh.ch
